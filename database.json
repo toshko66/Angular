@@ -1,0 +1,25 @@
+{
+  "competitions": [
+    {
+      "id": 1,
+      "name": "Coding Challenge",
+      "description": "Show off your coding skills!",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-15"
+    },
+    {
+      "id": 2,
+      "name": "Design Contest",
+      "description": "Create stunning designs and win prizes!",
+      "startDate": "2023-11-20",
+      "endDate": "2023-12-10"
+    },
+    {
+      "id": 3,
+      "name": "Quiz Competition",
+      "description": "Test your knowledge and win exciting rewards!",
+      "startDate": "2023-12-05",
+      "endDate": "2023-12-18"
+    }
+  ]
+}
